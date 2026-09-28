@@ -1,0 +1,54 @@
+Project #2 - Developing Projects Website (Primpt and Feedback forum) - Project 2 - Feedback Forum
+This is a sort of continuation from Project # 1. Build a multipage web site using HTML/CSS, media, and links using the material from Project # 1 and more.  You'll use this as your project demo website for other work in this class. 
+
+Key Elements Needed
+A welcome or "splash" page, where visitors get first impressions of your work ("index" page). 
+A 'stylepage.css' used for coding style into the entire site (no 'inline' .css on this site) Little to no .JS code.
+An About US page, taking from info from Project # 1 and making this into a web page. 
+
+A resource page for implicit bias, in the style of a 'Library Resource Guide pageLinks to an external site.'. This should include some ORIGINAL thoughts on the IBT, intersectionality, and implicit bias, with links and resources for people encountering these terms for the first time (Audience: Think first-year college students.) 
+ 
+A 'tech heroes' page.  A short bio and links to someone who is challenging norms within the tech space. It should be a person of color or ally who is providing leadership in advancing equity for race/class/gender in the United States.
+
+No CEOs from Google or Microsoft here; We've all heard of Ada Lovelace, Grace Hopper, and the other "Hidden Figures." — Find someone you know personally, or stretch yourself and profile someone who others are unlikely to know because they're not in the news everyday. Need some ideas? Go to peopleofcolorintech.comLinks to an external site.. (300 word max profile with useful links).
+Evaluation 
+
+Design Points
+
+Complete Module 2 and Module 3 readings and exercises, and you should be well on your way to developing a site using HTML. This site must be 'hand-coded' HTML (no templates from WordPress. If there is use of templates, these must be heavily modified and commented on). 
+
+Module 4's resources will help with design, do not to lean too hard on 'Material' and other basic resources - This is will impact your grade. 
+
+Code Points
+
+You must GitHub to upload your site and store your code, so you can share your code with peers by other means. See 'Obtain a Web site'
+Every page must have 'html/CSS comments' (see Module 2 videos). 
+Each page must contain at least 100 words of commenting explaining your coding choices.
+Each person must initial their name in the comments like so <!-- ahsdfh sahdjf   RR --> 
+Zero points will be awarded for sites built using generative AI. Gen-AI can be useful for finding key features to use. You must insert your own code into your designs.   
+ 
+Multiple Due Dates
+  6 Oct Tues   Project # 2 - First Iteration of your site uploaded. Post URL and screenshot to this Assignment. 
+  9 Oct Friday  Give critical and constructive feedback to at least two other students' sites. (Links should be below). 
+  13 Oct Tues    Final revamped version of your Project # 2 due 
+
+Scoring 20 pts 
+Design - 5 pts 
+• Original creative and not template-driven, basic.
+• Interactive, media-rich (images, video, audio, fonts, etc), 
+• Inclusive, clears accessibility checks in Web site design
+• CSS-driven design (no over-reliance on .JS and inline style-scripting) 
+
+Code - 5 pts — Clear and well-processed code scheme
+• with code 'comments' in the HTML 
+• external links, and no broken refs;
+• useful navigation and operational functions     
+
+Content — 10 pts  
+• Your writing, information and overall approach effectively engages with key ideas from readings, engages with ideas of intersectionality and implicit bias, and documents an original Tech Hero.
+
+How to Submit
+• Each member posts a screengrab of your Web site and a link to your url to this Assignment/Discussion Forum. If your partner is in the same Feedback Forum (see below) you need only post once. 
+
+Feedback Forums
+Each of you are assigned to one of three forums. Make useful and constructive comments in those forums by deadline above. (2.5pts)  
