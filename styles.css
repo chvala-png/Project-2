@@ -4,6 +4,11 @@ html, body{
     padding:0;
 }
 
+section{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
 .container-header{
     display: flex;
     justify-content:space-between;
@@ -63,7 +68,24 @@ h1{
     flex: 1;
 }
 .person img{
-    width: 50%;
+    width: 30%;
+    height: auto;
+}
+
+
+.tech-hero{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:50px;
+    margin-bottom:50px;
+}
+
+.tech-hero-text{
+    flex:1
+}
+.tech-hero img{
+    width:30%;
     height: auto;
 }
 
