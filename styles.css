@@ -50,11 +50,20 @@ h1{
     font-size: 40px;
 }
 
-.about-text{
-    width:50%
+
+
+.person{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 60px;
 }
-.About img{
-    width: 40%;
+.about-text{
+    flex: 1;
+}
+.person img{
+    width: 50%;
     height: auto;
 }
 
