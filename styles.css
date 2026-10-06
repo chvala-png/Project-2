@@ -8,17 +8,37 @@ html, body{
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding: 10px 10%;
+    padding: 15px 10%;
     background-color:#6a72ba;
     position: sticky;
     top:0;
     z-index:1000;
 }
 
+.nav {
+    display: flex;
+    gap: 10px;
+     list-style: none;
+}
+.nav a{
+    text-decoration: none;
+    text-decoration: none;
+    font-size:16px;
+    font-weight:500;
+    transition:color 0.3s ease;
+    flex-direction: row;
+    color: black;
+
+}
+.nav a:hover{
+    color: pink;
+
+}
+
 .hero{
     text-align:center;
     padding-top: 250px;
-    padding-bottom: 220px;
+    padding-bottom: 260px;
 }
 
 h1{
@@ -27,5 +47,14 @@ h1{
 
 #title{
     text-align: center;
+    font-size: 40px;
+}
+
+.about-text{
+    width:50%
+}
+.About img{
+    width: 40%;
+    height: auto;
 }
 
