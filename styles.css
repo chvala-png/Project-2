@@ -73,6 +73,11 @@ h1{
     height: auto;
 }
 
+.wide-image{
+    width: 60%;
+    height: 250px;
+    object-fit: cover;
+}
 
 .tech-hero{
     display: flex;
