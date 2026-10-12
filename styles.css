@@ -73,7 +73,7 @@ h1{
     height: auto;
 }
 
-.wide-image{
+.person img.wide-image{
     width: 60%;
     height: 250px;
     object-fit: cover;
