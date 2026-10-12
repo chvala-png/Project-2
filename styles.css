@@ -73,12 +73,6 @@ h1{
     height: auto;
 }
 
-.person img.wide-image{
-    width: 60%;
-    height: 250px;
-    object-fit: cover;
-}
-
 .tech-hero{
     display: flex;
     justify-content:space-between;
