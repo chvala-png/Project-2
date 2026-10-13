@@ -14,18 +14,26 @@ section{
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding: 15px 10%;
-    background-color:#6a72ba;
+    padding: 30px 10%;
+    background-color:#e8c895;
     position: sticky;
     top:0;
     z-index:1000;
 }
 
+
 .nav {
     display: flex;
-    gap: 10px;
+    gap: 30px;
      list-style: none;
+    
+    
 }
+
+.logo{
+    font-weight:bold;
+}
+
 .nav a{
     text-decoration: none;
     text-decoration: none;
@@ -34,17 +42,29 @@ section{
     transition:color 0.3s ease;
     flex-direction: row;
     color: black;
+    
 
 }
 .nav a:hover{
-    color: pink;
+    color: blue;
 
 }
 
 .hero{
     text-align:center;
-    padding-top: 250px;
+    padding-top:100px;
     padding-bottom: 260px;
+    display:flex;
+    justify-content: center; 
+    align-items: center;  
+    gap:100px;
+
+}
+.hero img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 15px;
 }
 
 h1{
